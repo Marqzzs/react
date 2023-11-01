@@ -1,21 +1,23 @@
 import React from "react";
 import "./Header.css";
-import { Link } from "react-router-dom";
+import Container from "../Container/Container";
+import Nav from "../Nav/Nav";
+import PerfilUsuario from "../PerfilUsuario/PerfilUsuario";
+import menubar from "../../assets/images/menubar.png";
 
 const Header = () => {
   return (
-    <header>
-      <nav>
-        <Link to="/">Home</Link>
-        <br />
-        <Link to="/login">Login</Link>
-        <br />
-        <Link to="/tipos-eventos">Tipos Eventos</Link>
-        <br />
-        <Link to="/eventos">Eventos</Link>
-        <br />
-        <Link to="/testes">Testes</Link>
-      </nav>
+    <header className="headerPage">
+      <Container>
+        <div className="header-flex">
+          <img
+            src={menubar}
+            alt="imagem de menu de barras, utilizada para exibir ou esconder o menu no smartphone"
+          />
+          <Nav />
+          <PerfilUsuario />
+        </div>
+      </Container>
     </header>
   );
 };

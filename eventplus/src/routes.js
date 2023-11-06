@@ -12,7 +12,6 @@ import Footer from "./Components/Footer/Footer";
 
 const Rotas = () => {
   return (
-    <div>
       <BrowserRouter>
         <Header />
         <Routes>
@@ -24,7 +23,7 @@ const Rotas = () => {
         </Routes>
         <Footer />
       </BrowserRouter>
-    </div>
+
   );
 };
 

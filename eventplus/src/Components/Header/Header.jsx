@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./Header.css";
 import Container from "../Container/Container";
 import Nav from "../Nav/Nav";
-import PerfilUsuario from "../PerfilUsuario/PerfilUsuario";
+import PerfilUsuario from "../PerfilUsuario/PerfilUsuario"; 
 import menubar from "../../assets/images/menubar.png";
 
 const Header = () => {

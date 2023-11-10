@@ -7,10 +7,11 @@ import ContactSection from "../../Components/ContactSection/ContactSection";
 import Title from "../../Components/Title/Title";
 import NextEvent from "../../Components/NextEvent/NextEvent";
 import Container from "../../Components/Container/Container";
-import axios from "axios";
+import api from "../../Services/Services";
+import {nextEventResource} from "../../Services/Services"
 
 const HomePage = () => {
-  const urlLocal = "https://localhost:7118/api"
+
   const [nextEvents, setNextEvents] = useState([]); //dados mocados
 
   useEffect(() => {
@@ -18,7 +19,7 @@ const HomePage = () => {
     async function getNextEvents() {
 
       try {
-        const promise = await axios.get(`${urlLocal}/Evento/ListarProximos`);
+        const promise = await api.get(nextEventResource);
         const dados = await promise.data;
 
         setNextEvents(dados);//atualiza o state

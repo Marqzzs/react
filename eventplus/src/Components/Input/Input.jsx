@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+// import React, { useState } from 'react';
 import './Input.css'
 
 const Input = ({onChange, type, placeholder, name, id, value}) => {

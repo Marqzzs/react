@@ -40,6 +40,10 @@
     justify-content: 'space-between';
 }
 
+.additionalClass{
+    margin-top: 122px;;
+}
+
 @media screen and (min-width: 1200px){
     
     .cadastro-evento__box {

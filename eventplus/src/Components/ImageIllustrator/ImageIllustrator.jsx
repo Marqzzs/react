@@ -1,7 +1,8 @@
 import React from 'react';
-import 'ImageIllustrator.css'
+import './ImageIllustrator.css'
 import tipoEventoImage from '../../assets/images/tipo-evento.svg'
 import eventoImage from '../../assets/images/evento.svg'
+import defaultImage from '../../assets/images/default-image.jpeg'
 //import tipoEventoImage from '../../assets/images/tipo-evento.svg'
 
 const ImageIllustrator = ({altText, imageName, additionalClass}) => {
@@ -26,7 +27,10 @@ const ImageIllustrator = ({altText, imageName, additionalClass}) => {
 
     return (
         <figure className='illustrator-box'>
-            <img src={imageResource} alt={altText} className={`illustrator-box__image ${additionalClass}`} />
+            <img 
+                src={imageResource} 
+                alt={altText} 
+                className={`illustrator-box__image ${additionalClass}`} />
         </figure>
     );
 };

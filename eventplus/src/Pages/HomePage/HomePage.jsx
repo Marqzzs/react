@@ -9,10 +9,12 @@ import NextEvent from "../../Components/NextEvent/NextEvent";
 import Container from "../../Components/Container/Container";
 import api from "../../Services/Services";
 import {nextEventResource} from "../../Services/Services"
+import Notification from "../../Components/Notification/Notification";
 
 const HomePage = () => {
 
   const [nextEvents, setNextEvents] = useState([]); //dados mocados
+  const [notifyUser, setNotifyUser] = useState();
 
   useEffect(() => {
 
@@ -25,7 +27,14 @@ const HomePage = () => {
         setNextEvents(dados);//atualiza o state
 
       } catch (error) {
-        alert(`Deu ruim! ${error}`)
+        setNotifyUser({
+          titleNote: "Erro",
+          textNote: `Não foi possivel mostrar os eventos`,
+          imgIcon: "danger",
+          imgAlt:
+            "Imagem de ilustracao de erro. Mulher segurando uma bolinha com o X",
+          showMessage: true,
+        });
       }
 
     }
@@ -60,6 +69,7 @@ const HomePage = () => {
       <VisionSection />
 
       <ContactSection />
+      {<Notification {...notifyUser} setNotifyUser={setNotifyUser} />}
     </MainContent>
   );
 };

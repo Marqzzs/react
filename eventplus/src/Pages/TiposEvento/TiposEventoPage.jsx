@@ -8,20 +8,22 @@ import { Input, Button } from "../../Components/FormComponents/FormComponents";
 import api, { eventsTypeResource } from "../../Services/Services";
 import TableTP from "./TableTP/TableTP";
 import Notification from "../../Components/Notification/Notification";
+import Spinner from "../../Components/Spinner/Spinner"
 
 const TiposEventoPage = () => {
   const [frmEdit, setFrmEdit] = useState(false); //esta em edicao?
   const [titulo, setTitulo] = useState("");
+  const [idEvento, setIdEvento] = useState(null);
   const [tipoEventos, setTipoEventos] = useState([]);
   const [notifyUser, setNotifyUser] = useState();
+  const [showSpinner, setShowSpinner] = useState(false);
 
   useEffect(() => {
     async function loadEventsType() {
+      setShowSpinner(true)
       try {
         const retorno = await api.get(eventsTypeResource);
         const dados = await retorno.data;
-        console.log(dados);
-
         setTipoEventos(dados);
 
         console.log(retorno.data);
@@ -29,6 +31,7 @@ const TiposEventoPage = () => {
         console.log("Erro na api");
         console.log(error);
       }
+      setShowSpinner(false)
     }
     loadEventsType();
   }, []);
@@ -37,7 +40,16 @@ const TiposEventoPage = () => {
     e.preventDefault();
 
     if (titulo.trim().length < 3) {
-      alert("O titulo deve ter pelo menos 3 caracteres");
+      setNotifyUser({
+        titleNote: "Aviso",
+        textNote: `O titulo deve conter no minino 3 caracteres`,
+        imgIcon: "warning",
+        imgAlt:
+          "Imagem de ilustracao de aviso. Mulher na frente de um ponto de exclamação",
+        showMessage: true,
+      });
+
+      return;
     }
 
     try {
@@ -45,17 +57,63 @@ const TiposEventoPage = () => {
         titulo: titulo,
       });
       console.log(retorno);
-      setTitulo("");
+      setTitulo(titulo);
 
-      alert("Cadastrado com sucesso");
+      setNotifyUser({
+        titleNote: "Sucesso",
+        textNote: `Cadastro concluido com sucesso`,
+        imgIcon: "success",
+        imgAlt:
+          "Imagem de ilustracao de sucesso. Mulher segurando uma imagem de sucesso",
+        showMessage: true,
+      });
+      const buscaTipoEvento = await api.get(eventsTypeResource);
+      setTipoEventos(buscaTipoEvento.data);
+
     } catch (error) {
-      alert("deu ruim na api");
+      setNotifyUser({
+        titleNote: "Erro",
+        textNote: `Não foi possivel cadastrar`,
+        imgIcon: "danger",
+        imgAlt:
+          "Imagem de ilustracao de erro. Mulher segurando uma bolinha com um x",
+        showMessage: true,
+      });
     }
   }
 
   async function handleUpdate(e) {
     e.preventDefault();
-    
+
+    try {
+      const response = await api.put(eventsTypeResource + "/" + idEvento, {
+        titulo: titulo,
+      });
+
+      if (response.status === 204) {
+        setNotifyUser({
+          titleNote: "Sucesso",
+          textNote: `O Tipo de Evento foi Atualizado`,
+          imgIcon: "success",
+          imgAlt:
+            "Imagem de ilustracao de sucesso. Mulher segurando um ponto de sucesso",
+          showMessage: true,
+        });
+        const buscaTipoEvento = await api.get(eventsTypeResource);
+        setTipoEventos(buscaTipoEvento.data);
+
+        editActionAbort();
+      }
+    } catch (error) {
+      setNotifyUser({
+        titleNote: "Erro",
+        textNote: `Não foi possivel atualizar`,
+        imgIcon: "danger",
+        imgAlt:
+          "Imagem de ilustracao de erro. Mulher segurando uma bolinha com um x",
+        showMessage: true,
+      });
+    }
   }
 
   // Apaga o tipo de evento
@@ -77,6 +135,8 @@ const TiposEventoPage = () => {
         }
       }
       setTipoEventos([tipoEventos]);
+      const buscaTipoEvento = await api.get(eventsTypeResource);
+      setTipoEventos(buscaTipoEvento.data);
     } catch (error) {
       setNotifyUser({
         titleNote: "Error",
@@ -91,7 +151,8 @@ const TiposEventoPage = () => {
   // cancela a tela de edicao
   function editActionAbort() {
     setFrmEdit(false);
-    setTitulo("")
+    setTitulo("");
+    setIdEvento(null);
     setNotifyUser({
       titleNote: "Cancelado",
       textNote: `Edicao cancelada com sucesso`,
@@ -106,7 +167,8 @@ const TiposEventoPage = () => {
     try {
       setFrmEdit(true);
       const response = await api.get(`${eventsTypeResource}/${idElement}`);
-      setTitulo(response.data.titulo)
+      setTitulo(response.data.titulo);
+      setIdEvento(idElement);
     } catch (error) {
       setNotifyUser({
         titleNote: "Error",
@@ -122,6 +184,7 @@ const TiposEventoPage = () => {
   return (
     <>
       {<Notification {...notifyUser} setNotifyUser={setNotifyUser} />}
+      {showSpinner ? <Spinner /> : null}
       <MainContent>
         {/**Formulario de cadstro de tipos eventos */}
         <section className="cadastro-evento-section">

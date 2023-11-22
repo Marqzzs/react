@@ -62,6 +62,7 @@ export const Select = ({
 }) => {
     
     return(
+        
         <select 
             name={name} 
             id={id}
@@ -80,4 +81,6 @@ export const Select = ({
             })}
         </select>
     )
+
+    
 }

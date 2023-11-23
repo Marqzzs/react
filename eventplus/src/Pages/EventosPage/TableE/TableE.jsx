@@ -32,9 +32,9 @@ const TableTP = ({ dados, fnDelete = null, fnUpdate = null }) => {
       </thead>
 
       <tbody>
-        {dados.map((e) => {
+        {dados.map((e, i) => {
           return (
-            <tr className="table-data__head-row">
+            <tr key={i} className="table-data__head-row">
               <td
                 className="table-data__data table-data__data--big"
                 idevento={e.idEvento}
@@ -59,7 +59,7 @@ const TableTP = ({ dados, fnDelete = null, fnUpdate = null }) => {
                 className="table-data__data table-data__data--big"
                 idevento={e.idEvento}
               >
-                {e.dataEvento}
+                {new Date(e.dataEvento).toLocaleDateString()}
               </td>
 
               <td className="table-data__data table-data__data--little">

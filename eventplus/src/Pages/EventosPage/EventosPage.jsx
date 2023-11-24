@@ -27,6 +27,7 @@ const EventosPage = () => {
   const [data, setData] = useState("");
   const [idEvento, setIdEvento] = useState(null);
   const [idTipoEvento, setIdTipoEvento] = useState("");
+  const [notifyUser, setNotifyUser] = useState();
 
   async function loadEvents() {
     try {
@@ -66,8 +67,15 @@ const EventosPage = () => {
 
   async function handleSubmit(e) {
     e.preventDefault();
-    if (nome.trim().length < 3) {
-      alert("O nome deve conter no minimo 3 caracteres");
+    if (nome.trim().length < 5) {
+      setNotifyUser({
+        titleNote: "Avisi",
+        textNote: `O nome do evento deve conter no minino 5 caracteres`,
+        imgIcon: "warning",
+        imgAlt:
+          "Imagem de ilustracao de sucesso. Mulher segurando um ponto de sucesso",
+        showMessage: true,
+      });;
       return;
     }
     try {
@@ -88,14 +96,16 @@ const EventosPage = () => {
       const buscaEvento = await api.get(eventsResource);
       setEvento(buscaEvento.data);
 
-      // setNotifyUser({
-      //   titleNote: "Sucesso",
-      //   textNote: `O Evento foi cadastrado`,
-      //   imgIcon: "success",
-      //   imgAlt:
-      //     "Imagem de ilustracao de sucesso. Mulher segurando um ponto de sucesso",
-      //   showMessage: true,
-      // });
+      setNotifyUser({
+        titleNote: "Sucesso",
+        textNote: `O Evento foi cadastrado`,
+        imgIcon: "success",
+        imgAlt:
+          "Imagem de ilustracao de sucesso. Mulher segurando um ponto de sucesso",
+        showMessage: true,
+      });
+
+      editActionAbort();
     } catch (error) {
       console.log({
         nome: nome,
@@ -104,7 +114,14 @@ const EventosPage = () => {
         idTipoEvento: idTipoEvento,
         idInstituicao: ID_INSTITUICAO,
       });
-      alert("Deu ruim");
+      setNotifyUser({
+        titleNote: "Erro",
+        textNote: `Nao foi possivel cadastrar`,
+        imgIcon: "danger",
+        imgAlt:
+          "Imagem de ilustracao de erro. Mulher na frente de uma lousa",
+        showMessage: true,
+      });
     }
   }
 
@@ -122,8 +139,26 @@ const EventosPage = () => {
 
       const buscaEvento = await api.get(eventsResource);
       setEvento(buscaEvento.data);
+
+      setNotifyUser({
+        titleNote: "Sucesso",
+        textNote: `O Evento foi atualizado`,
+        imgIcon: "success",
+        imgAlt:
+          "Imagem de ilustracao de sucesso. Mulher segurando um ponto de sucesso",
+        showMessage: true,
+      });
+
+      editActionAbort();
     } catch (error) {
-      
+      setNotifyUser({
+        titleNote: "Erro",
+        textNote: `Nao foi possivel atualizar`,
+        imgIcon: "danger",
+        imgAlt:
+          "Imagem de ilustracao de erro. Mulher na frente de uma lousa",
+        showMessage: true,
+      });
     }
   }
 
@@ -136,20 +171,38 @@ const EventosPage = () => {
           alert("Excluido com sucesso");
         }
       }
-     
+
       const buscaEvento = await api.get(eventsResource);
       setEvento(buscaEvento.data);
+
+      setNotifyUser({
+        titleNote: "Sucesso",
+        textNote: `O Evento foi deletado`,
+        imgIcon: "warning",
+        imgAlt:
+          "Imagem de ilustracao de aviso. Mulher na frente do ponto de exclamacao",
+        showMessage: true,
+      });
+
+      editActionAbort();
     } catch (error) {
-      alert("Deu familia");
+      setNotifyUser({
+        titleNote: "Erro",
+        textNote: `Nao foi possivel deletar`,
+        imgIcon: "danger",
+        imgAlt:
+          "Imagem de ilustracao de erro. Mulher na frente de uma lousa",
+        showMessage: true,
+      });
     }
   }
 
   function editActionAbort() {
     setFrmEdit(false);
     setNome("");
-    setDescricao("")
-    setIdTipoEvento("")
-    setData("")
+    setDescricao("");
+    setIdTipoEvento("");
+    setData("");
     setIdEvento(null);
     // setNotifyUser({
     //   titleNote: "Cancelado",
@@ -182,7 +235,7 @@ const EventosPage = () => {
 
   return (
     <>
-      {/*{<Notification {...notifyUser} setNotifyUser={setNotifyUser} />}*/}
+      {<Notification {...notifyUser} setNotifyUser={setNotifyUser} />}
       <MainContent>
         <section className="cadastro-evento-section">
           <Container>

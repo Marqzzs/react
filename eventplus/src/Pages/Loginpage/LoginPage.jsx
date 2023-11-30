@@ -1,15 +1,23 @@
-import React, { useContext, useState } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import ImageIllustrator from "../../Components/ImageIllustrator/ImageIllustrator";
 import logo from "../../assets/images/logo-pink.svg";
 import { Input, Button } from "../../Components/FormComponents/FormComponents";
-import api, {loginResource} from "../../Services/Services";
+import api, { loginResource } from "../../Services/Services";
+import { useNavigate } from "react-router-dom";
 
 import "./Login.css";
 import { UserContext, userDecodeToken } from "../../context/AuthContext";
 
 const LoginPage = () => {
   const [user, setUser] = useState({ email: "adm@adm.com", senha: "123456" });
-  const {userData, setUserData} = useContext(UserContext) //import os dados globais
+  const { userData, setUserData } = useContext(UserContext); //import os dados globais
+  const navigate = useNavigate();
+
+  useEffect(() => {
+    if (userData.nome) {
+      navigate("/");
+    }
+  }, [userData]);
 
   async function handleSubmit(e) {
     e.preventDefault();
@@ -18,25 +26,24 @@ const LoginPage = () => {
     //tamanho minino de caracteres para senha:
     if (user.email.length >= 3 && user.senha.length >= 3) {
       try {
-        const promise = await api.post(loginResource,{
+        const promise = await api.post(loginResource, {
           email: user.email,
-          senha: user.senha
-        })
+          senha: user.senha,
+        });
 
-        const userFullToken = userDecodeToken(promise.data.token)
+        const userFullToken = userDecodeToken(promise.data.token);
 
         //guarda o token globalmente
         setUserData(userFullToken);
 
-        localStorage.setItem("token", JSON.stringify(userFullToken))
+        localStorage.setItem("token", JSON.stringify(userFullToken));
+        navigate("/");
       } catch (error) {
-        alert("Verifique os dados e a conexao com a internet")
+        alert("Verifique os dados e a conexao com a internet");
       }
     } else {
       alert("Minino de caracteres nao atingido");
     }
-    console.log("dados de login");
-    console.log(user);
   }
 
   return (

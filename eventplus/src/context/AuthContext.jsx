@@ -5,5 +5,5 @@ export const UserContext = createContext(null);
 
 export const userDecodeToken = (theToken) => {
     const decod = jwtDecode(theToken);//objeto do payload
-    return {role: decod.role, nome: decod.name, token: theToken}
+    return {role: decod.role, nome: decod.name, token: theToken, userId: decod.userId}
 }

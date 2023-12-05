@@ -7,6 +7,7 @@ import LoginPage from "../Pages/Loginpage/LoginPage";
 import TiposEventoPage from "../Pages/TiposEvento/TiposEventoPage";
 import EventosPage from "../Pages/EventosPage/EventosPage";
 import TestePage from "../Pages/TestePage/TestePage";
+import EventosAlunoPage from "../Pages/EventosAlunoPage/EventosAlunoPage";
 import Header from "../Components/Header/Header";
 import Footer from "../Components/Footer/Footer";
 import { PrivateRoute } from "./PrivateRoute";
@@ -18,12 +19,21 @@ const Rotas = () => {
       <Routes>
         <Route element={<HomePage />} path={"/"} exact />
         <Route element={<LoginPage />} path={"/login"} />
+       
 
         <Route
           path={"/tipos-eventos"}
           element={
             <PrivateRoute redirectTo="/">
               <TiposEventoPage />
+            </PrivateRoute>
+          }
+        />
+        <Route
+          path={"/eventos-aluno"}
+          element={
+            <PrivateRoute redirectTo="/">
+              <EventosAlunoPage/>
             </PrivateRoute>
           }
         />

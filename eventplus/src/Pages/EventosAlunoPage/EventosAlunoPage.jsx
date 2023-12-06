@@ -11,7 +11,7 @@ import api from "../../Services/Services";
 
 import "./EventosAlunoPage.css";
 import { UserContext } from "../../context/AuthContext";
-import { eventsResource, myEventsResource } from "../../Services/Services";
+import { eventsResource, myEventsResource, presencesEventsResource } from "../../Services/Services";
 
 const EventosAlunoPage = () => {
   // state do menu mobile
@@ -35,8 +35,21 @@ const EventosAlunoPage = () => {
       if (tipoEvento === "1") {
         try {
           const retornoEventos = await api.get(eventsResource);
-          setEventos(retornoEventos.data);
+          const myRetornoEventos = await api.get(myEventsResource + userData.userId)
+
+          const eventosMarcados = verificaPresenca(
+            retornoEventos.data,
+            myRetornoEventos.data
+          )
+          setEventos(eventosMarcados);
+
+          console.clear();
+          console.log("todos os eventos");
           console.log(retornoEventos.data);
+          console.log("meus os eventos");
+          console.log(myRetornoEventos.data);
+          console.log("eventos marcados");
+          console.log(eventosMarcados);
         } catch (error) {
           console.log(`Erro na api ${error}`);
         }
@@ -48,15 +61,16 @@ const EventosAlunoPage = () => {
           const arrEventos = [];
 
           retornoEventos.data.forEach(e => {
-            arrEventos.push(e.evento)
+            arrEventos.push({... e.evento, situacao: e.situacao})
           });
 
           setEventos(arrEventos);
-          console.clear()
-          console.log(retornoEventos.data);
+          console.log(arrEventos);
         } catch (error) {
           console.log(`Erro na api ${error}`);
         }
+      } else {
+        setEventos([])
       }
     }
     loadEventsType();
@@ -65,12 +79,14 @@ const EventosAlunoPage = () => {
   const verificarPresenca = (arrAllEvents, eventsUser) => {
     for (let x = 0; x < arrAllEvents.lenght; x++){//para cada evento
       for (let i = 0; i <eventsUser.lenght; i++){//procurar a corre
+        
         if(arrAllEvents[x].idEvento === eventsUser[i].idEvento){
           arrAllEvents[x].situacao = true;
           break; //para de procurar para o evento principal atual
         }
       }
     }
+    return arrAllEvents;
   }
 
   // toggle meus eventos ou todos os eventos
@@ -90,8 +106,14 @@ const EventosAlunoPage = () => {
     alert("Remover o comentário");
   };
 
-  function handleConnect() {
-    alert("Desenvolver a função conectar evento");
+  function handleConnect(eventId, whatTheFunction, presenceId = null) {
+    if(whatTheFunction === "connect") {
+      const promise = await api.post(presencesEventsResource, {
+        situacao: true,
+        idUsuario: userData.userId,
+        idEvento: eventId
+      });
+    } 
   }
   return (
     <>

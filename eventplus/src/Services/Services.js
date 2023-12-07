@@ -26,6 +26,8 @@ export const myEventsResource = `/PresencaEvento/ListarMinhas/`
 
 export const presencesEventsResource = `/PresencaEvento`
 
+export const commentsResource = `/ComentariosEvento`
+
 const apiPort = '7118';
 const localApiUrl = `https://localhost:${apiPort}/api`;
 //const externalApiUrl = null;

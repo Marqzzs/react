@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\apiweb.eventplus.manha.props" />
+</Project>

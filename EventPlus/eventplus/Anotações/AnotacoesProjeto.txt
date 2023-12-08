@@ -1,0 +1,91 @@
+
+Exemplo de API usado no exercício
+
+1 - npm i axios
+
+O Axios é uma biblioteca para requisições de http. Para o consumo de API's. Estamos usando
+O comando instala essa biblioteca no projeto.
+
+Procure pela pasta Utils para ver sua preparação e algumas das páginas para ver sua utilização
+
+Outro plugin que estamos baixando 
+
+2 - npm install react-tooltip
+
+O TollTip é uma biblioteca que facilita a exibição de grandes textos em um pequeno espaço
+
+
+______________________________________________
+
+
+* MUITO IMPORTANTE *
+
+
+FAZER FUNCIONAR A PRÓPRIA API
+
+Para uma api permitir o uso de uma API colocamos o seguinte código
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: "MyPolicy",
+    policy =>
+    {
+        policy.WithOrigins("http://localhost:3000").AllowAnyHeader().AllowAnyMethod();
+    }
+    );
+});
+
+Esse código autoriza nosso front end para fazer uma requisição para nossa API e poder requisitar dados no banco de dados.
+
+Perceba que no bloco nós colocamos o http de nosso front end e depois permitimos qualquer header e qualquer método utilizar o recurso.
+
+Também podemos colocar da seguinte forma:
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: "MyPolicy",
+    policy =>
+    {
+        policy.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
+    }
+    );
+});
+
+Aqui qualquer origem terá acesso a nossa API
+
+MUITO IMPORTANTE
+Não esqueça de adicionar a seguinte linha, independente da configuração da permissão
+
+// OUTRA LINHA DE CODIGO PARA LIBERAR O FRONT END
+app.UseCors("MyPolicy");
+
+Para funções separadas que queremos usar nos componentes criamos uma pasta chamada Utils
+Dentro dela é onde será feia as funções para propósitos gerais.
+
+Para chamar a API nós criamos a pasta Services para automatizar a chamada das apis
+
+
+______________________________________________
+1 -
+Estamos no processo de login. Para obter o token estamos buscando na api direto
+O retorno é um token fornecido pela própria API
+Estaremos instalando um serviço que realiza a validação do token chamado JWT-DECODE
+Ele que nos fornecerá a função de login dentro do site
+
+Para baixar o serviço:
+
+-    npm i jwt-decode
+
+
+2 - Feita as funções e chamado o serviço nos resta chamar esse serviço e função em um componente que engloba todo o site
+(afinal quando queremos fazer o login, queremos que nosso token continue validado independete da página que acessamos)
+
+É por isso que estamos chamando o conjunto no arquivo "App.js" o arquivo pai de todos os componentes para ele conter as informações do usuário
+podendo assim ser usadas em qualquer parte do site
+
+3 - Com a biblioteca que baixamos nos chamamos a função jwtDecode para obter os valores do token recebido 
+Vale ressaltar que essa função pode ser realiza em um arquivo separado.
+No caso desse projeto essa função ficou em AuthContex retornando um objeto com as propriedades que nos interessa no login
+O arquivo também é o arquivo origem do objeto do UseContex
+
+4 - Chamamos as funções no arquivo LoginPage e então usamos ela para obter os valores do token obtido a partir da api

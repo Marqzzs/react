@@ -1,0 +1,738 @@
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\appsettings.json
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.exe
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.deps.json
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.runtimeconfig.json
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.pdb
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.apiweb.eventplus.manha.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.build.apiweb.eventplus.manha.props
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.apiweb.eventplus.manha.props
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.apiweb.eventplus.manha.props
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\scopedcss\bundle\apiweb.eventplus.manha.styles.css
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.CopyComplete
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\refint\apiweb.eventplus.manha.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.pdb
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\ref\apiweb.eventplus.manha.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Humanizer.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\51910007811\Desktop\2ºSemestre\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\appsettings.json
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.exe
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.deps.json
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.runtimeconfig.json
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.pdb
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.AssemblyReference.cache
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.AssemblyInfoInputs.cache
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.AssemblyInfo.cs
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.CoreCompileInputs.cache
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.apiweb.eventplus.manha.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.build.apiweb.eventplus.manha.props
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.apiweb.eventplus.manha.props
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.apiweb.eventplus.manha.props
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\scopedcss\bundle\apiweb.eventplus.manha.styles.css
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.CopyComplete
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\refint\apiweb.eventplus.manha.dll
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.pdb
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.genruntimeconfig.cache
+C:\Users\Basilios\Desktop\2Semestre1Sprint\API - Eventplus\apiweb.eventplus.manha\obj\Debug\net7.0\ref\apiweb.eventplus.manha.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\appsettings.json
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.exe
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.deps.json
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.runtimeconfig.json
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.pdb
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.AssemblyReference.cache
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.AssemblyInfoInputs.cache
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.AssemblyInfo.cs
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.CoreCompileInputs.cache
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.apiweb.eventplus.manha.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.build.apiweb.eventplus.manha.props
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.apiweb.eventplus.manha.props
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.apiweb.eventplus.manha.props
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\scopedcss\bundle\apiweb.eventplus.manha.styles.css
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.CopyComplete
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\refint\apiweb.eventplus.manha.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.pdb
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.genruntimeconfig.cache
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\ref\apiweb.eventplus.manha.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\appsettings.json
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.exe
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.deps.json
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.runtimeconfig.json
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.pdb
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Humanizer.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.apiweb.eventplus.manha.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.build.apiweb.eventplus.manha.props
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.apiweb.eventplus.manha.props
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.apiweb.eventplus.manha.props
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\scopedcss\bundle\apiweb.eventplus.manha.styles.css
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.CopyComplete
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\refint\apiweb.eventplus.manha.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.pdb
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlus\apiweb.eventplus.manha\obj\Debug\net7.0\ref\apiweb.eventplus.manha.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\appsettings.json
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.exe
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.deps.json
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.runtimeconfig.json
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.pdb
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Humanizer.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.apiweb.eventplus.manha.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.build.apiweb.eventplus.manha.props
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.apiweb.eventplus.manha.props
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.apiweb.eventplus.manha.props
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\scopedcss\bundle\apiweb.eventplus.manha.styles.css
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.CopyComplete
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\refint\apiweb.eventplus.manha.dll
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.pdb
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\3ºSemestre\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\ref\apiweb.eventplus.manha.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\appsettings.json
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.exe
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.deps.json
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.runtimeconfig.json
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.pdb
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.AssemblyReference.cache
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.AssemblyInfoInputs.cache
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.AssemblyInfo.cs
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.CoreCompileInputs.cache
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.apiweb.eventplus.manha.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.build.apiweb.eventplus.manha.props
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.apiweb.eventplus.manha.props
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.apiweb.eventplus.manha.props
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\scopedcss\bundle\apiweb.eventplus.manha.styles.css
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.CopyComplete
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\refint\apiweb.eventplus.manha.dll
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.pdb
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.genruntimeconfig.cache
+C:\Users\Basilios\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\ref\apiweb.eventplus.manha.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\appsettings.json
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.exe
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.deps.json
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.runtimeconfig.json
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.pdb
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Humanizer.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.apiweb.eventplus.manha.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.build.apiweb.eventplus.manha.props
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.apiweb.eventplus.manha.props
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.apiweb.eventplus.manha.props
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\scopedcss\bundle\apiweb.eventplus.manha.styles.css
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.CopyComplete
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\refint\apiweb.eventplus.manha.dll
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.pdb
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\2Semestre2Sprint\React\EventoPlusAPI\apiweb.eventplus.manha\obj\Debug\net7.0\ref\apiweb.eventplus.manha.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\appsettings.json
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.exe
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.deps.json
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.runtimeconfig.json
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.pdb
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Humanizer.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.AssemblyReference.cache
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.AssemblyInfoInputs.cache
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.AssemblyInfo.cs
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.CoreCompileInputs.cache
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.apiweb.eventplus.manha.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.build.apiweb.eventplus.manha.props
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.apiweb.eventplus.manha.props
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.apiweb.eventplus.manha.props
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\scopedcss\bundle\apiweb.eventplus.manha.styles.css
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.CopyComplete
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\refint\apiweb.eventplus.manha.dll
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.pdb
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.genruntimeconfig.cache
+C:\Users\57267874800\Desktop\Sprint 3 , 2º SEM - Frontend\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\ref\apiweb.eventplus.manha.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\appsettings.json
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.exe
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.deps.json
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.runtimeconfig.json
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\apiweb.eventplus.manha.pdb
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Humanizer.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.AssemblyReference.cache
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.AssemblyInfoInputs.cache
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.AssemblyInfo.cs
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.CoreCompileInputs.cache
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.apiweb.eventplus.manha.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.build.apiweb.eventplus.manha.props
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.apiweb.eventplus.manha.props
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.apiweb.eventplus.manha.props
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\scopedcss\bundle\apiweb.eventplus.manha.styles.css
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.csproj.CopyComplete
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\refint\apiweb.eventplus.manha.dll
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.pdb
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\apiweb.eventplus.manha.genruntimeconfig.cache
+C:\Users\55358961879\Desktop\2-Semestre-Sprint-3-FrontEnd\2 - Indroducao ao React\EventPlus\eventplusapi\apiweb.eventplus.manha\obj\Debug\net7.0\ref\apiweb.eventplus.manha.dll

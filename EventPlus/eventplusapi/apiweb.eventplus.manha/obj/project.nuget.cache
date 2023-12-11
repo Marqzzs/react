@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8P+eu23xuXkiE4FA4VFG+WMFGGiIga/UOv6tkvJEUQ7glrKKqohALGK/h1g2sNh5VexcXO5KC8cDOgK61Pswzw==",
+  "dgSpecHash": "Igs1ub0tr/Ri3uRlRikZbZApaxLyCqrBOH3OIbPQGxlRUKLGuC44R1VDA/znkJ2SqgUEY8cIgIGwe6OFFzynQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\55358961879\\Desktop\\2-Semestre-Sprint-3-FrontEnd\\2 - Indroducao ao React\\EventPlus\\eventplusapi\\apiweb.eventplus.manha\\apiweb.eventplus.manha.csproj",
+  "projectFilePath": "C:\\Users\\55358961879\\Desktop\\react\\EventPlus\\eventplusapi\\apiweb.eventplus.manha\\apiweb.eventplus.manha.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\55358961879\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\55358961879\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

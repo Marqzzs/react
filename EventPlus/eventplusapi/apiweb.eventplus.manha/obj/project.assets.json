@@ -3344,11 +3344,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\55358961879\\Desktop\\2-Semestre-Sprint-3-FrontEnd\\2 - Indroducao ao React\\EventPlus\\eventplusapi\\apiweb.eventplus.manha\\apiweb.eventplus.manha.csproj",
+      "projectUniqueName": "C:\\Users\\55358961879\\Desktop\\react\\EventPlus\\eventplusapi\\apiweb.eventplus.manha\\apiweb.eventplus.manha.csproj",
       "projectName": "apiweb.eventplus.manha",
-      "projectPath": "C:\\Users\\55358961879\\Desktop\\2-Semestre-Sprint-3-FrontEnd\\2 - Indroducao ao React\\EventPlus\\eventplusapi\\apiweb.eventplus.manha\\apiweb.eventplus.manha.csproj",
+      "projectPath": "C:\\Users\\55358961879\\Desktop\\react\\EventPlus\\eventplusapi\\apiweb.eventplus.manha\\apiweb.eventplus.manha.csproj",
       "packagesPath": "C:\\Users\\55358961879\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\55358961879\\Desktop\\2-Semestre-Sprint-3-FrontEnd\\2 - Indroducao ao React\\EventPlus\\eventplusapi\\apiweb.eventplus.manha\\obj\\",
+      "outputPath": "C:\\Users\\55358961879\\Desktop\\react\\EventPlus\\eventplusapi\\apiweb.eventplus.manha\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\55358961879\\AppData\\Roaming\\NuGet\\NuGet.Config",
